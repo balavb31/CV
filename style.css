@@ -150,15 +150,15 @@ button{
     height:150px;
     background-color: #66BFBF;
     margin-top: 20px;
-    height:130px;
+    height:100px;
     margin-bottom: 0;
+    padding-top: 50px;
+    padding-bottom: 0;
 }
 
-.footer p{
-    margin-top: 30px;
-    width:70px;
-    font-weight:lighter ;
-    color:#11999E;
+a{
+    width: 150px;
+    text-decoration: none;
 }
 
 #copyrights{
