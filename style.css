@@ -157,7 +157,7 @@ button{
 }
 
 a{
-    width: 150px;
+    margin-left: 30px;
     text-decoration: none;
     color: #11999E;
 }
@@ -167,6 +167,7 @@ a:visited{
 }
 
 #copyrights{
+    margin-left: 30px;
     width:450px;
     color: wheat;
     font-size: small;
