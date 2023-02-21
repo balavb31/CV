@@ -146,6 +146,10 @@ button{
     border-color: #66BFBF;
 }
 
+button:hover{
+    background-color: #304e5c;
+}
+
 .footer{
     height:150px;
     background-color: #66BFBF;
