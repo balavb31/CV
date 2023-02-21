@@ -161,6 +161,10 @@ a{
     text-decoration: none;
 }
 
+a:visited{
+    color: #11999E;
+}
+
 #copyrights{
     width:450px;
     color: wheat;
